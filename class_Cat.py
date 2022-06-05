@@ -31,3 +31,8 @@ class Cat:
         :param mouse: колличество мышей в доме
         :return: колличество пойманных мышей
         """
+        ...
+
+
+if __name__ == "main":
+    murka = Cat('female', 'black', 5)
