@@ -43,4 +43,4 @@ class Glass:
 
 
 if __name__ == "__main__":
-    glass = Glass(500, 0)
+    glass = Glass(500, 0)  # инициализация экземпляра класса
